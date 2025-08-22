@@ -22,7 +22,7 @@ b. Login to Google Colab, https://colab.research.google.com/, create an account 
 
 ## Bigram Instructions
 
-1. Open [tensors-basics.ipynb](https://colab.research.google.com/drive/1E1EstGTTzuly9YY-RGM-fbm0-hNSlPa9#scrollTo=RnhdO0mlYnVQ), Select Github, paste this url and create a new Note book
+1. Open [bigram.ipynb](https://colab.research.google.com/drive/1CRTMp684qtZMiAhWP42Y92rjtetXmJot?usp=sharing), Select Github, paste this url and create a new Note book
 2. Click on Connect and `Select Change runtime type`
 ![alt text](images//tensorbasics//connect.png)
 
