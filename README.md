@@ -40,3 +40,16 @@ b. Login to Google Colab, https://colab.research.google.com/, create an account 
 
 ## GPT LLM Instructions
 
+1. Open [gptv1.ipynb](https://github.com/karthikeyanVK/gpt-learn/blob/main/gptv1.ipynb), Select Github, paste this url and create a new Note book
+
+2. Click on Connect and `Select Change runtime type`
+![alt text](images//tensorbasics//connect.png)
+
+3. Choose Select 'Runtime Type' - Python and 'Hardware accelerator' - T4 GPU, and click Save ![alt text](images//tensorbasics//selectruntime.png)
+
+5. Use [gptv1.ipynb](gptv1.ipynb) for instructions
+
+6. In google colab start writing the commands given in gptv1.ipynb
+
+7. Once Completed goto Menu->Runtime -> Disconnect and delete Runtime. This will make you ready for next module. 
+![alt text](images//tensorbasics//deleteruntime.png)
