@@ -7,7 +7,7 @@ b. Login to Google Colab, https://colab.research.google.com/, create an account 
 ## Tensor Basics
 
 1. Open in a new tab,
-<a href="https://colab.research.google.com/drive/1E1EstGTTzuly9YY-RGM-fbm0-hNSlPa9#scrollTo=RnhdO0mlYnVQ" target="_blank">tensors-basics.ipynb</a> 
+<a href="https://colab.research.google.com/drive/1E1EstGTTzuly9YY-RGM-fbm0-hNSlPa9?usp=sharing" target="_blank">tensors-basics.ipynb</a> 
 
 2. Click on Connect and `Select Change runtime type`
 ![alt text](images//tensorbasics//connect.png)
@@ -18,7 +18,7 @@ b. Login to Google Colab, https://colab.research.google.com/, create an account 
 6. In google colab start writing the commands given in tensors-basics.ipynb
 
 7. Once Completed goto Menu->Runtime -> Disconnect and delete Runtime. This will make you ready for next module. 
-![alt text](images//tensorbasics// deleteruntime.png)
+![alt text](images//tensorbasics//deleteruntime.png)
 
 ## Bigram Instructions
 
