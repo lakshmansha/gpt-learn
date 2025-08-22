@@ -1,5 +1,7 @@
 # Workshop Instructions
-Login to Google Colab, https://colab.research.google.com/, create an account if you have dont have one already.
+
+a. Clone this repo, using `git clone https://github.com/karthikeyanVK/gpt-learn.git`
+b. Login to Google Colab, https://colab.research.google.com/, create an account if you have dont have one already.
 
 ## Tensor Basics
 
