@@ -40,7 +40,7 @@ b. Login to Google Colab, https://colab.research.google.com/, create an account 
 
 ## GPT LLM Instructions
 
-1. Open [gptv1.ipynb](https://github.com/karthikeyanVK/gpt-learn/blob/main/gptv1.ipynb), Select Github, paste this url and create a new Note book
+1. Open [gptv1.ipynb](https://colab.research.google.com/github/karthikeyanVK/gpt-learn/blob/main/gptv1.ipynb), Select Github, paste this url and create a new Note book
 
 2. Click on Connect and `Select Change runtime type`
 ![alt text](images//tensorbasics//connect.png)
