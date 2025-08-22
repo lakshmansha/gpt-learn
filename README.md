@@ -14,7 +14,9 @@ b. Login to Google Colab, https://colab.research.google.com/, create an account 
 
 3. Choose Select 'Runtime Type' - Python and 'Hardware accelerator' - T4 GPU, and click Save
 ![alt text](images//tensorbasics//selectruntime.png)
+
 5. Use [tensors-basics.ipynb](tensors-basics.ipynb) for instructions
+
 6. In google colab start writing the commands given in tensors-basics.ipynb
 
 7. Once Completed goto Menu->Runtime -> Disconnect and delete Runtime. This will make you ready for next module. 
@@ -27,8 +29,8 @@ b. Login to Google Colab, https://colab.research.google.com/, create an account 
 2. Click on Connect and `Select Change runtime type`
 ![alt text](images//tensorbasics//connect.png)
 
-3. Choose Select 'Runtime Type' - Python and 'Hardware accelerator' - T4 GPU, and click Save
-![alt text](images//tensorbasics//selectruntime.png)
+3. Choose Select 'Runtime Type' - Python and 'Hardware accelerator' - T4 GPU, and click Save ![alt text](images//tensorbasics//selectruntime.png)
+
 5. Use [bigram.ipynb](bigram.ipynb) for instructions
 
 6. In google colab start writing the commands given in bigram.ipynb
